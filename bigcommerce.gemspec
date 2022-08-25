@@ -35,5 +35,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'faraday-multipart', '~> 1.0.4'
   
   s.add_dependency 'hashie', '>= 3.4', '~> 4'
-  s.add_dependency 'jwt', '>= 1.5.4', '~> 2'
+  s.add_dependency 'jwt', '~> 1.5.4', '~> 2'
 end
